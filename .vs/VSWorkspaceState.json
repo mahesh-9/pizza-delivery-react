@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assests",
+    "\\src\\Components",
+    "\\src\\Components\\User",
+    "\\src\\store",
+    "\\src\\store\\actions",
+    "\\src\\store\\reducers"
+  ],
+  "SelectedNode": "\\src\\store\\sessionStorage.js",
+  "PreviewInSolutionExplorer": false
+}

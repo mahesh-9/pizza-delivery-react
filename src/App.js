@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Container,Row} from 'react-bootstrap';
+import {Container,Row, Div, Col} from 'react-bootstrap';
 import {connect} from 'react-redux';
 import {BrowserRouter as Router, Switch,Route} from 'react-router-dom';
 
@@ -15,6 +15,8 @@ import Profile from './Components/User/Profile';
 import Menu from './Components/Menu';
 import Cart from './Components/Cart';
 import Contact from './Components/ContactPage';
+//import bg6 from './assests/images/bg-6.jpg';
+
 
 
 
